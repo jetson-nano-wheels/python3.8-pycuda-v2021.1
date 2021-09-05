@@ -1,0 +1,3 @@
+[submodule "jetson-nano-wheels/commons"]
+	path = jetson-nano-wheels/commons
+	url = git@github.com:jetson-nano-wheels/commons
